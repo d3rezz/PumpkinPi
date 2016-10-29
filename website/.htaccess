@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "My Protected Pumpkin"
+AuthUserFile path/.htpasswd
+Require valid-user
+
